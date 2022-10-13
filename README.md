@@ -1,7 +1,7 @@
 <h1>Ignite Lab</h1>
 <p>Neste projeto foi desenvolvido um Design System do Figma ao React</p>
 
-<h2>Tecnologias e Ferramentas<h2>
+<h2>Tecnologias e Ferramentas</h2>
 
 <ul>
   <li>React</li>
@@ -12,7 +12,7 @@
 </ul>
 <hr>
 
-<h2>Check List de desenvolvimento<h2>
+<h2>Check List de desenvolvimento</h2>
 <p>Check List com todas as etapas para o desenvolvimento do projeto</p>
 
 <ul>
@@ -27,7 +27,7 @@
 </ul>
 <hr>
 
-<h2>Desenvolvimento<h2>
+<h2>Desenvolvimento</h2>
 <p>Bibliotecas, ferramentas e etapas do projeto</p>
 
 <ul>
