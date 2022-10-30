@@ -1,5 +1,6 @@
 <h1>Ignite Lab</h1>
 <p>Neste projeto foi desenvolvido um Design System do Figma ao React</p>
+<hr>
 
 <h2>Tecnologias e Ferramentas</h2>
 
